@@ -1,0 +1,4 @@
+# Python pakagaes required for main.py
+
+
+opencv-python
